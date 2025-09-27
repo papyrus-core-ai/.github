@@ -42,3 +42,5 @@
 - **[career-compass](https://github.com/ml-career-analysis/career-compass)** – веб-интерфейс
 - **[citadel](https://github.com/ml-career-analysis/citadel)** – инфраструктура проекта
 
+
+## Этапы разработки
