@@ -18,7 +18,7 @@
 
 ## Архитектура проекта:
 
-- **[spider](https://github.com/ml-career-analysis/spider)** — парсер вакансий с агрегаторов
+- **[spider](https://github.com/ml-career-analysis/spider)** — парсер статей
 - **[core-ml](https://github.com/ml-career-analysis/ml-core)** – ml модели
 - **[core-engine](https://github.com/ml-career-analysis/core-engine)** – rest-api
 - **[papyrus-fe](https://github.com/ml-career-analysis/career-compass)** – веб-интерфейс
