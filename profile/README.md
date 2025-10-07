@@ -21,8 +21,8 @@
 - **[spider](https://github.com/ml-career-analysis/spider)** — парсер вакансий с агрегаторов
 - **[core-ml](https://github.com/ml-career-analysis/ml-core)** – ml модели
 - **[core-engine](https://github.com/ml-career-analysis/core-engine)** – rest-api
-- **[career-compass](https://github.com/ml-career-analysis/career-compass)** – веб-интерфейс
-- **[citadel](https://github.com/ml-career-analysis/citadel)** – инфраструктура проекта
+- **[papyrus-fe](https://github.com/ml-career-analysis/career-compass)** – веб-интерфейс
+- **[citadel](https://github.com/ml-career-analysis/citadel)** – инфраструктура проекта (CI/CD)
 
 
 ## Этапы разработки
